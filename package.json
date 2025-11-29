@@ -1,0 +1,25 @@
+{
+  "name": "part00",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharvanCN1/sharvancn1.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharvanCN1/sharvancn1.github.io/issues"
+  },
+  "homepage": "https://github.com/SharvanCN1/sharvancn1.github.io#readme",
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "eslint-plugin-react": "^7.37.5"
+  }
+}
